@@ -1,0 +1,17 @@
+{
+  "name": "BOAK COFFEE - POS & บัญชี",
+  "short_name": "BOAK POS",
+  "description": "ระบบบันทึกยอดขายและบัญชีรายรับ-รายจ่าย ร้าน BOAK COFFEE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF8F5",
+  "theme_color": "#5F3D2A",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/coffee-cup.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
